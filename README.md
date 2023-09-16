@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/0xbitx/DEDSEC_DISCORD_DARK_THEME/blob/main/banner.png", width="600", height="600">
+<img src="https://github.com/0xbitx/DEDSEC_DISCORD_DARK_THEME/blob/main/banner.png", width="300", height="300">
 </p>
 <h1 align="center"> DEDSEC_DISCORD_DARK_THEME</h1>
 <h4 align="center"> DEDSEC DARK THEME FOR DISCORD</h4>
